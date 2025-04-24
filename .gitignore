@@ -1,0 +1,16 @@
+# Ignore all
+*
+# include .gitignore in the root directory
+!.gitignore
+# Exclude directories
+!*/
+# Enable C++ files
+!*.cpp
+# Enable C files
+!*.c
+# Enable header files
+!*.h
+!*.hpp
+# Enable Markdown files
+!*.md
+
